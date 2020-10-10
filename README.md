@@ -31,10 +31,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - [x] TypeScript
 - [x] Styled-Components
-- [x] Next-Images
+- [x] SWR
 
 <img src="https://user-images.githubusercontent.com/55901431/95641534-55b24880-0a79-11eb-899c-e71228babdf6.png"/>
-<img src="https://user-images.githubusercontent.com/55901431/95641544-64006480-0a79-11eb-9ddd-b8388cd93443.png"/>
 <img src="https://user-images.githubusercontent.com/55901431/95641553-737fad80-0a79-11eb-8412-c2b891809211.png"/>
+<img src="https://user-images.githubusercontent.com/55901431/95641544-64006480-0a79-11eb-9ddd-b8388cd93443.png"/>
 
 
