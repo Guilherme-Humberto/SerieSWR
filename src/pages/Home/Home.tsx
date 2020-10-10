@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React Effect } from 'react';
 import { useRouter } from 'next/router'
-import Fetcher from '../../api/Fetcher';
+import Fetcher from '../../hooks/Fetcher';
 
 import {
   Container,
