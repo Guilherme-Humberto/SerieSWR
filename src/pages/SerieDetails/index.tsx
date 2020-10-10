@@ -1,7 +1,7 @@
 import React from 'react';
 import { useRouter } from 'next/router'
 
-import Fetcher from '../../api/Fetcher';
+import Fetcher from '../../hooks/Fetcher';
 import { 
   Container,
   DetailsTexts,
